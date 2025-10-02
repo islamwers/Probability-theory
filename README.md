@@ -24,22 +24,22 @@
 ## 🎥 Видео-лекции
 
 📹1. Теория вероятностей. Лекция 1 ШАД: Введение в вероятность, определения, классическая формула расчета 
-- (https://img.youtube.com/vi/jYEPG8XjlKY/hqdefault.jpg)](https://youtu.be/jYEPG8XjlKY)
+[![Лекция 2](https://img.youtube.com/vi/jYEPG8XjlKY/hqdefault.jpg)](https://youtu.be/jYEPG8XjlKY)
   
 📹2. Теория вероятностей. Семинар 1 ШАД: Введение в вероятность, комбинаторика часть 1
-- [![Лекция 2](https://img.youtube.com/vi/G_-36YSuptg/hqdefault.jpg)](https://youtu.be/G_-36YSuptg)
+[![Лекция 2](https://img.youtube.com/vi/G_-36YSuptg/hqdefault.jpg)](https://youtu.be/G_-36YSuptg)
 
 📹3. Теория вероятностей. Семинар 2 ШАД: Введение в вероятность, комбинаторика часть 2
-- [![Лекция 3](https://img.youtube.com/vi/dxhf9jeW0II/hqdefault.jpg)](https://youtu.be/dxhf9jeW0II)
+[![Лекция 3](https://img.youtube.com/vi/dxhf9jeW0II/hqdefault.jpg)](https://youtu.be/dxhf9jeW0II)
 
 📹4. Теория вероятностей. Лекция 2 ШАД: Операции с событиями, совместные/зависимые. Геометрическая вероятность
-- [![Лекция 4](https://img.youtube.com/vi/7vwuiI-MQlA/hqdefault.jpg)](https://youtu.be/7vwuiI-MQlA)
+[![Лекция 4](https://img.youtube.com/vi/7vwuiI-MQlA/hqdefault.jpg)](https://youtu.be/7vwuiI-MQlA)
 
 📹5. Теория вероятностей. Семинар 3 ШАД: Геометрическая вероятность, операции с событиями
-- [![Лекция 5](https://img.youtube.com/vi/i07FVLhdaFA/hqdefault.jpg)](https://youtu.be/i07FVLhdaFA)
+[![Лекция 5](https://img.youtube.com/vi/i07FVLhdaFA/hqdefault.jpg)](https://youtu.be/i07FVLhdaFA)
 
 📹6. Теория вероятностей. Семинар 4 ШАД: Комбинации, карты, деньги, два туза
-- [![Лекция 6](https://img.youtube.com/vi/PwvyhDAK-QQ/hqdefault.jpg)](https://youtu.be/PwvyhDAK-QQ)
+[![Лекция 6](https://img.youtube.com/vi/PwvyhDAK-QQ/hqdefault.jpg)](https://youtu.be/PwvyhDAK-QQ)
 
 📹7. Теория вероятностей. Семинар 5 ШАД: Начало полной вероятности, диаграмма Венна
-- [![Лекция 7](https://img.youtube.com/vi/CxkJBpiUjls/hqdefault.jpg)](https://youtu.be/CxkJBpiUjls)  
+[![Лекция 7](https://img.youtube.com/vi/CxkJBpiUjls/hqdefault.jpg)](https://youtu.be/CxkJBpiUjls)  
