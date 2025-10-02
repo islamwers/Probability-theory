@@ -13,4 +13,12 @@
 	•	всем, кто хочет закрепить теорию на практике через задачи и код.
 
   Тут же оставляю для вас ссылки на ютуб видео:
-  1. https://youtu.be/jYEPG8XjlKY
+## 🎥 Видео-лекции
+
+- [![Лекция 1](https://img.youtube.com/vi/jYEPG8XjlKY/hqdefault.jpg)](https://youtu.be/jYEPG8XjlKY) Введение в теорию вероятностей  
+- [![Лекция 2](https://img.youtube.com/vi/G_-36YSuptg/hqdefault.jpg)](https://youtu.be/G_-36YSuptg) События и операции над ними  
+- [![Лекция 3](https://img.youtube.com/vi/dxhf9jeW0II/hqdefault.jpg)](https://youtu.be/dxhf9jeW0II) Классическое определение вероятности  
+- [![Лекция 4](https://img.youtube.com/vi/7vwuiI-MQlA/hqdefault.jpg)](https://youtu.be/7vwuiI-MQlA) Условная вероятность и формула Байеса  
+- [![Лекция 5](https://img.youtube.com/vi/i07FVLhdaFA/hqdefault.jpg)](https://youtu.be/i07FVLhdaFA) Независимость событий  
+- [![Лекция 6](https://img.youtube.com/vi/PwvyhDAK-QQ/hqdefault.jpg)](https://youtu.be/PwvyhDAK-QQ) Случайные величины и распределения  
+- [![Лекция 7](https://img.youtube.com/vi/CxkJBpiUjls/hqdefault.jpg)](https://youtu.be/CxkJBpiUjls) Математическое ожидание и дисперсия  
