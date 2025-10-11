@@ -42,4 +42,10 @@
 - [![Лекция 6](https://img.youtube.com/vi/PwvyhDAK-QQ/hqdefault.jpg)](https://youtu.be/PwvyhDAK-QQ)
 
 📹7. Теория вероятностей. Семинар 5 ШАД: Начало полной вероятности, диаграмма Венна
-- [![Лекция 7](https://img.youtube.com/vi/CxkJBpiUjls/hqdefault.jpg)](https://youtu.be/CxkJBpiUjls)  
+- [![Лекция 7](https://img.youtube.com/vi/CxkJBpiUjls/hqdefault.jpg)](https://youtu.be/CxkJBpiUjls)
+
+📹8. Инструкция по репозиторию + игра "три вопроса"
+- [![Лекция 7](https://img.youtube.com/vi/96XEkEJayLA/hqdefault.jpg)](https://youtu.be/96XEkEJayLA)
+
+📹9. Теория вероятностей. Семинар 6 ШАД: Полная вероятность и теорема Байеса
+- [![Лекция 7](https://img.youtube.com/vi/LN3PIRWtH2k/hqdefault.jpg)](https://youtu.be/LN3PIRWtH2k) 
