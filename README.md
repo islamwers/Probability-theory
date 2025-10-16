@@ -48,4 +48,8 @@
 - [![Лекция 7](https://img.youtube.com/vi/96XEkEJayLA/hqdefault.jpg)](https://youtu.be/96XEkEJayLA)
 
 📹9. Теория вероятностей. Семинар 6 ШАД: Полная вероятность и теорема Байеса
-- [![Лекция 7](https://img.youtube.com/vi/LN3PIRWtH2k/hqdefault.jpg)](https://youtu.be/LN3PIRWtH2k) 
+- [![Лекция 7](https://img.youtube.com/vi/LN3PIRWtH2k/hqdefault.jpg)](https://youtu.be/LN3PIRWtH2k)
+
+📹10. Теория вероятностей. Семинар 7 ШАД: Разбор первой контрольной работы
+- [![Лекция 7](https://img.youtube.com/vi/fIazkSQAWcA/hqdefault.jpg)](https://youtu.be/fIazkSQAWcA)
+
