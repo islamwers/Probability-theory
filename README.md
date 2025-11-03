@@ -59,4 +59,7 @@
 📹12. Теория вероятностей. Лекция 3 ШАД: Числовые характеристики случайной величины. Биномиальный закон распределения
 - [![Лекция 7](https://img.youtube.com/vi/-BUEgm8ImBo/hqdefault.jpg)](https://youtu.be/-BUEgm8ImBo)
 
+📹13. Теория вероятностей. Лекция 4 + семинар ШАД: Распределения Геометрическое и Пуассона.
+- [![Лекция 7](https://img.youtube.com/vi/UoN4XY3RSnY/hqdefault.jpg)](https://youtu.be/UoN4XY3RSnY)
+
 
