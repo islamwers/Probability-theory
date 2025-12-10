@@ -62,4 +62,21 @@
 📹13. Теория вероятностей. Лекция 4 + семинар ШАД: Распределения Геометрическое и Пуассона.
 - [![Лекция 7](https://img.youtube.com/vi/UoN4XY3RSnY/hqdefault.jpg)](https://youtu.be/UoN4XY3RSnY)
 
+📹14. Теория вероятностей. Семинар 9 ШАД: Практика по дискретной случайной величине
+- [![Лекция 7](https://img.youtube.com/vi/bNO_4DKQy9k/hqdefault.jpg)](https://youtu.be/bNO_4DKQy9k)
+
+📹15. Теория вероятностей. Семинар 10 ШАД: Практика по дискретной случайной величине часть 2
+- [![Лекция 7](https://img.youtube.com/vi/P3S-1o1lqY0/hqdefault.jpg)](https://youtu.be/P3S-1o1lqY0)
+
+📹16. Теория вероятностей. Лекция 5 ШАД: Двумерная дискретная случайная величина. Ковариация, корреляция  
+- [![Лекция 7](https://img.youtube.com/vi/GIbO8wEzOQc/hqdefault.jpg)](https://youtu.be/GIbO8wEzOQc)
+
+📹17. Теория вероятностей. Лекция 6 ШАД: За деньги - Да! Непрерывная случайная величина + семинар 
+- [![Лекция 7](https://img.youtube.com/vi/oVERiibiLpw/hqdefault.jpg)](https://youtu.be/oVERiibiLpw)
+
+📹18. Теория вероятностей. Семинар 11 ШАД: Практика по двумерной случайной величине 
+- [![Лекция 7](https://img.youtube.com/vi/PrEBkA3Tk8Y/hqdefault.jpg)](https://youtu.be/PrEBkA3Tk8Y)
+
+📹19. Теория вероятностей. Семинар 12 ШАД: Подготовка к контрольной работе 2 
+- [![Лекция 7](https://img.youtube.com/vi/KnKR5CbN6Lg/hqdefault.jpg)](https://youtu.be/KnKR5CbN6Lg)
 
